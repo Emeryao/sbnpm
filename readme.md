@@ -2,7 +2,7 @@
 
 # sbnpm
 
-> `SB npm` 不用翻墙也能用的npm  
+> `SB npm` 不用翻墙也能用的npm :fu:  
 
 ## Install
 
